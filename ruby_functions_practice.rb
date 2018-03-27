@@ -17,3 +17,11 @@ end
 def divide(num_1, num_2)
   return num_1 / num_2
 end
+
+def length_of_string(string_to_check)
+  return string_to_check.length
+end
+
+def join_string(string_1, string_2)
+  return string_1 + string_2
+end
